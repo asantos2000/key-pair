@@ -1,0 +1,61 @@
+{
+    "   KeyPairs": [
+        {
+            "   KeyFingerprint": "   fd:e5: 23: 0b:a0:b4:fb: 7c: 60: 54: 5d:c8: 6b:a7: 35: 63:a8: 39:c9: 04",
+            "   KeyName": "   eks"
+        },
+        {
+            "   KeyFingerprint": "   50:ce: 27: 29:d3: 5b: 32: 37:ec:f3: 67:f9: 30: 79:4e:9e:ea: 31: 2f:d1",
+            "   KeyName": "   load-test"
+        },
+        {
+            "   KeyFingerprint": "   34: 66: 7b: 73:ba:f4: 49: 51:f7: 7b: 20:f3: 3b: 5f: 38: 99",
+            "   KeyName": "   test"
+        },
+        {
+            "   KeyFingerprint": "   bf:d3:a9:aa: 4a: 05:c1: 6a: 1c: 9f:a3:ec: 55:be: 0c: 21: 7a: 1d: 6a:4e",
+            "   KeyName": "   testaws"
+        }
+    ],
+    "   ResponseMetadata": {
+        "   RequestId": "   d88611dd-8359-42c8-be2a-94dbe50dfd00",
+        "   HTTPStatusCode": 200,
+        "   HTTPHeaders": {
+            "   content-type": "   text/xml;charset=UTF-8",
+            "   content-length": "   917",
+            "   date": "   Sat, 27 Oct 2018 23: 47: 21 GMT",
+            "   server": "   AmazonEC2"
+        },
+        "   RetryAttempts": 0
+    }
+}
+
+{
+    "   ResponseMetadata": {
+        "   RequestId": "   ecc11f84-1979-4242-b6f8-f2584e61378e",
+        "   HTTPStatusCode": 200,
+        "   HTTPHeaders": {
+            "   content-type": "   text/xml;charset=UTF-8",
+            "   content-length": "   227",
+            "   date": "   Sat, 27 Oct 2018 23:49:21 GMT",
+            "   server": "   AmazonEC2"
+        },
+        "   RetryAttempts": 0
+    }
+}
+
+{
+    " KeyFingerprint": " 34:66:7b:73:ba:f4:49:51:f7:7b:20:f3:3b:5f:38:99",
+    " KeyName": " test",
+    " ResponseMetadata": {
+        " RequestId": " 593a80d4-7c72-4f2a-9006-184656b1bf78",
+        " HTTPStatusCode": 200,
+        " HTTPHeaders": {
+            " content-type": " text/xml;charset=UTF-8",
+            " content-length": " 314",
+            " date": " Sat, 27 Oct 2018 23:28:33 GMT",
+            " server": " AmazonEC2"
+        },
+        " RetryAttempts": 0
+    }
+}
